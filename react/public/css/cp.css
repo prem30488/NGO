@@ -1,0 +1,160 @@
+.cascade-slider_container h4 {
+	text-align:center; 
+	color: #fff !important;
+}
+.cascade-slider_container p {
+	text-align:center; 
+	color: #fff !important;
+}
+.btn-details{
+	background-color: #76C04E;
+	padding: 2px 4px 2px 4px;
+	border-radius: 2px;
+	border-bottom: 2px solid #3C763D;
+}
+.logo{
+	width:65px;
+}
+.education{
+	background-color: rgba(0, 0, 0, 0.78);
+}
+.navbar {
+	min-height: 90px !important;
+	border-bottom: 4px solid green;
+}
+.education h2 strong{
+	color: rgb(255, 255, 0);
+}
+.education h2{
+	font-size: 30px;
+	color:#76c04e;
+}
+.para h4{
+	color: #72bf44;
+	font-size:22px !important;
+	margin:0;
+	font-weight:600;
+}
+.about{
+	background-color:#cdcdcd;
+}
+.partners{
+	padding: 10px 0;
+}
+.row.vdivide [class*='col-md-6']:not(:last-child):after {
+	background-color: rgba(153, 153, 153, 0.39);
+	width: 2px;
+	content: "";
+	display:block;
+	position: absolute;
+	top:0%;
+	bottom: 0%;
+	right: 0;
+	min-height: 440px;
+}
+.heading{
+	padding: 8px 0;
+}
+.partner .heading{
+	margin-left: 10%;
+}
+ul.partnertext li {
+	list-style-type: disc;
+	margin-left:25px;
+	padding: 6px;
+}
+.btn-partner{
+	padding: 5px 10px;
+	color: #080808;
+	border-bottom: 1px #3c731e;
+}
+.part-img{
+	padding:0 20px;
+}
+.desigation p{
+	font-size: 12px;
+	margin-bottom: 15px !important;
+	text-align: center;
+}
+.education-text{
+	text-align: center;
+	padding-top: 5px;
+}
+.membership{
+	margin-left: -5px;
+}
+.member{
+	border: dotted 1px black;
+}
+.sub-heading{
+	text-align: center;
+	padding: 12px;
+}
+.sub-padd{
+	padding-bottom: 15px;
+	padding-left: 5px;
+}
+.sub-padd h5{
+	text-align:left;
+}
+.upcoming-events{
+	background-color: #333333;
+}
+.events-heading{
+	text-align: center;
+	background-color: #76c04e;
+	padding: 5px;
+	color: white;
+	border-top-left-radius: 10em;
+	border-top-right-radius: 10em;
+}
+.event-slide{
+	padding: 60px 0;
+}
+.extraspace{
+	background-color: #76c04e;
+	height: 20px;
+	border-bottom-left-radius: 15em;
+	border-bottom-right-radius: 15em;
+}
+.links{
+	background-color: #CCC;
+	border-top: 2px solid #76C04E;
+}
+.links4{
+	border-top:2px solid #FFFF00;
+	background-color: #CCC;
+}
+.links-image{
+	text-align: center;
+	padding: 18px;
+}
+.links-image3{
+	text-align: center;
+	padding: 30px 0;
+}
+.row.vdivide [class*='col-md-5']:not(:last-child):after {
+	background-color: #eee;
+	width: 2px;
+	content: "";
+	display:block;
+	position: absolute;
+	top:0%;
+	bottom: 0%;
+	right: 0;
+	min-height: 170px;
+}
+.policy-indent {
+	margin-bottom: 12px;
+}
+.policy-indent > li {
+	margin-left: 50px;
+	margin-bottom: 4px;
+	font-size: 12px;
+}
+
+@media screen and (max-width: 766px){
+.desigation p {
+	text-align:left;
+}
+}
